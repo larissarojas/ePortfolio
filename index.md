@@ -10,7 +10,7 @@ The program also helped me develop my teamwork and communication skills. Through
 Another important lesson I learned was developing a security mindset. In my projects, I made sure user input was validated and the code handled errors safely. These steps might seem small, but they help protect the system and keep data secure, which is something I now always think about when writing code. Overall this program helped me become more confident, skilled and professional in computer science. I’ve learned how to think critically, test my ideas and improve my work until it’s the best it can be. My ePortfolio shows this growth clearly, from the early stages of learning to code to creating projects that demonstrate real technical skills. I’m proud of how far I’ve come and excited to keep improving so I can reach my career goals in the technology field.
 
 ## My Artifacts
-- [Software Design & Engineering: Weight Tracking App](./Software-Design-and-Engineering/)
-- [Algorithms & Data Structures: Hash Table Project](./Algorithms-and-Data-Structures/)
-- [Databases: Animal Shelter MongoDB Project](./Databases/)
+- [Software Design & Engineering: Weight Tracking App](./Software-Design-and-Engineering/narrative.md)
+- [Algorithms & Data Structures: Hash Table Project](./Algorithms-and-Data-Structures/narrative.md/)
+- [Databases: Animal Shelter MongoDB Project](./Databases/narrative.md/)
 - [Code Review Video](./Code-Review/index.md/)
