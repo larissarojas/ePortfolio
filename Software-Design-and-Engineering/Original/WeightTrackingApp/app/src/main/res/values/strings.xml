@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Weight Tracking App</string>
+    <string name="app_title">LariFit</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="button_login">Log In</string>
+    <string name="button_create_account">Create Account</string>
+    <string name="track_weight_title">Track Your Weight</string>
+    <string name="enter_weight_hint">Enter your weight (lbs)</string>
+    <string name="goal_weight_hint">Enter goal weight (lbs)</string>
+    <string name="add_weight">Add Weight</string>
+    <string name="weight_history_list">List of past weight entries</string>
+    <string name="sms_permission_title">Enable SMS Notifications</string>
+    <string name="sms_permission_info">
+    To alert you when youve reached your goal weight, this app can send an SMS notification.\nWe need your permission to do this. </string>
+    <string name="sms_permission_status">Permission status will appear here</string>
+    <string name="request_sms_permission">Grant SMS Permission</string>
+    <string name="placeholder_chart">Progress Chart Coming Soon</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_edit">Edit</string>
+    <string name="weight_date_label">Weight / Date / Time</string>
+    <string name="permission_not_granted">SMS permission is not granted.</string>
+    <string name="permission_granted">SMS permission granted!</string>
+    <string name="permission_denied">SMS permission denied.</string>
+    <string name="permission_already_granted">Permission already granted</string>
+    <string name="weight_added">Weight added</string>
+    <string name="error_saving_weight">Error saving weight</string>
+    <string name="enter_weight_prompt">Please enter a weight</string>
+    <string name="goal_sms_sent">Goal SMS sent</string>
+    <string name="goal_sms_text">Congrats! Youve reached your goal weight!</string>
+</resources>
