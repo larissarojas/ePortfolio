@@ -1,5 +1,5 @@
 # **Larissa Rojas - CS 499 ePortfolio**
-
+ 
 ## Professional Self Assessment
 Looking back at my time in the Computer Science program, I can really see how much I have grown. When I started I barely understood code and needed a lot of practice to figure things out. Over time, through different classes and projects, I learned how to actually apply programming skills and solve problems step by step. Now I can look at real code, understand what it does and make improvements to it with confidence. My goal moving forward is to keep learning and become faster and more comfortable writing and fixing code so I can handle real life tasks and projects quickly at my future jobs.
 
