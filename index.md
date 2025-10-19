@@ -10,4 +10,4 @@ Another important lesson I learned was developing a security mindset. In my proj
 - [Software Design & Engineering: Weight Tracking App](./Software-Design-and-Engineering/)
 - [Algorithms & Data Structures: Hash Table Project](./Algorithms-and-Data-Structures/)
 - [Databases: Animal Shelter MongoDB Project](./Databases/)
-- [Code Review Video](#) <!-- paste your video link here -->
+- [Code Review Video](./Code-Review/index.md/)
