@@ -5,9 +5,13 @@ The artifact I selected for this milestone is my weight tracking Android app, wh
 For this milestone, I performed multiple enhancements to improve the app:
 
 •	I added better input validation so that only numbers can be entered for weight and goal weight and I added realistic limits to prevent invalid entries.
+
 •	I improved the user interface design, such as styling the Delete and Edit buttons with correct text size and custom colors (blue and pink) to make them more professional and easier to see.
+
 •	I added spacing between weight entries in the RecyclerView so that the layout looks cleaner.
+
 •	I customized the color scheme of the app to pink as my primary theme which gives it a consistent, polished look.
+
 •	The most important enhancement I added was a progress bar with a percentage label that shows how close the user is to reaching their goal weight. This makes the app more engaging and useful by giving visual feedback on progress.
 
 These enhancements made the app more reliable, user friendly and professional.
